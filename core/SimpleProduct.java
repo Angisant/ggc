@@ -20,4 +20,6 @@ public class SimpleProduct extends Product{
     public String toString(){
         return '|' + super.toString() +  '|' + getCurrentStock();  
     }
+
+    //jkdnsjdidsjixhdsiuewei
 }
